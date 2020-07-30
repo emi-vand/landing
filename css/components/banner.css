@@ -1,0 +1,56 @@
+.container{
+  text-align: center;
+}
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  margin: 0;
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.banner h2{
+  color: white;
+  font-size: 32px;
+}
+
+.banner p {
+  font-size: 25px;
+  color: white;
+}
+
+.btn-app{
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  font-weight: 600;
+  font-family: arial;
+  border-radius: 5px;
+  margin-right: 10px;
+  position: center;
+  font-size: 15px;
+}
+.btn-app:hover{
+  background-color: #838A96;
+  opacity: 0.9;
+}
+
+.btn-website{
+  background-color: grey;
+  color: white;
+  padding: 10px;
+  font-weight: 600;
+  font-family: arial;
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 15px;
+}
+.btn-website:hover{
+  background-color: #838A96;
+  opacity: 0.9;
+}
